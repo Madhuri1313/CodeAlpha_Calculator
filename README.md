@@ -50,7 +50,7 @@ Calculator/
 1. Download or clone the repository.
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Madhuri1313/CodeAlpha_Calculator.git
 ```
 
 2. Open the project folder.
